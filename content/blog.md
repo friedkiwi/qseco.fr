@@ -6,7 +6,7 @@ draft: false
 # Research
 
 - [Demystifying AS/400 DASD](/research/demystifying-as400-dasd/)
-- Porting GnuCOBOL to IBM i
+- [Porting GnuCOBOL to IBM i](/research/porting-gnucobol-ibmi/)
 
 # Tutorials
 
