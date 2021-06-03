@@ -10,7 +10,7 @@ draft: false
 
 # Tutorials
 
-- IBM i ‘Hello World’ in ILE C
+- [IBM i ‘Hello World’ in ILE C](/tutorials/hello-world-ile-c/)
 
 # Digital plumbing
 
