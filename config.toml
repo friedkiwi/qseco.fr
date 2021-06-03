@@ -22,24 +22,24 @@ theme = "terminal"
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "services"
-        name = "001-services"
+        name = "Services"
         url = "/services"
-        title = "Services"
+        weight = 100
 
       [[languages.en.menu.main]]
         identifier = "002-projects"
-        name = "002-projects"
+        name = "Projects"
         url = "/projects"
-        title = "Projects"
+        weight = 200
 
       [[languages.en.menu.main]]
         identifier = "003-blog"
-        name = "003-blog"
+        name = "Blog"
         url = "/blog"
-        title = "Blog"
+        weight = 300
 
       [[languages.en.menu.main]]
         identifier = "004-contact"
-        name = "004-contact"
+        name = "Contact"
         url = "/contact"
-        title = "Contact"
+        weight = 400
