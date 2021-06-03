@@ -1,6 +1,6 @@
-baseURL = "https://qseco.fr/"
+baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "QSECO.FR"
 theme = "terminal"
 
 [params]
@@ -18,14 +18,14 @@ theme = "terminal"
 
     [languages.en.params.logo]
       logoText = "QSECO.FR"
+      logoHomeLink = "/" 
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "services"
-        name = "Services"
-        url = "/services"
+        identifier = "001-services"
+        name = "Home"
+        url = "/"
         weight = 100
-
       [[languages.en.menu.main]]
         identifier = "002-projects"
         name = "Projects"
