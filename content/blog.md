@@ -14,5 +14,5 @@ draft: false
 
 # Digital plumbing
 
-- Starting Domino 10 Community Edition using systemd on Ubuntu 18.04
-- Fixing “JRE libraries are missing or not compatible….” on Traveler installation
+- [Starting Domino 10 Community Edition using systemd on Ubuntu 18.04](/plumbing/domino-systemd/)
+- [Fixing “JRE libraries are missing or not compatible….” on Traveler installation](/plumbing/fixing-jre-missing/)
