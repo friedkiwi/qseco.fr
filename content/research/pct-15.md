@@ -23,7 +23,7 @@ For those who are familiar with recordings of e.g. Commodore 64 tapes, a few thi
 
 Having a closer look at the sync pulse produces an immediately recognisable pattern:
 
-![sync pulse 1](sync_pulse_1.pmg)
+![sync pulse 1](sync_pulse.png)
 
 
 
