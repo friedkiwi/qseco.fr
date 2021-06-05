@@ -7,7 +7,7 @@ draft: false
 
 - [Demystifying AS/400 DASD](/research/demystifying-as400-dasd/)
 - [Porting GnuCOBOL to IBM i](/research/porting-gnucobol-ibmi/)
-- [Decoding the images produced by the PCT-15](research/pct-15/)
+- [Decoding the images produced by the PCT-15](/research/pct-15/)
 
 # Tutorials
 
